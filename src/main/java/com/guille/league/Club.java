@@ -77,7 +77,7 @@ public class Club {
 		}
 		
 		public Club buildSpanishClub(){
-			return new Club( new ClubBuilder("English Club", Country.SPAIN));
+			return new Club( new ClubBuilder("Spanish Club", Country.SPAIN));
 		}
 		
 	}
